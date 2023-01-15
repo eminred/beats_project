@@ -13,6 +13,7 @@
 }
 .fixed-menu__item:hover .fixed-menu__link:before {
   background: #E01F3D;
+  opacity: 1;
 }
 
 .fixed-menu__link {
@@ -30,6 +31,7 @@
   height: 6px;
   border-radius: 50%;
   background: #292929;
+  opacity: 0.6;
   position: absolute;
   top: 50%;
   left: 50%;
